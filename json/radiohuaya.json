@@ -2,7 +2,7 @@
     {
         "streams": [
             {
-                "playlist": ["http://185.33.22.15:7808"],
+                "playlist": ["http://200.79.181.104:8090/test1.mp3"],
                 "bitrate": 24,
                 "metaint": true,
                 "live": true,
