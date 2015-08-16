@@ -20,5 +20,31 @@
         "logo": "http://www.selbie.com/wrek/radio2.png",
         "time": "",
         "title": "Live air stream"
+    },
+    {
+        "streams": [
+            {
+                "playlist": [
+                    "http://200.79.181.104:8090/test1.mp3",
+                    "http://200.79.181.104:8090/test1.mp3"
+                ],
+                "bitrate": 24,
+                "live": false,
+                "url_m3u": "http://www.wrek.org/playlist.php/main/24kbs/current/LAW.m3u"
+            },
+            {
+                "playlist": [
+                    "http://200.79.181.104:8090/test1.mp3",
+                    "http://200.79.181.104:8090/test1.mp3"
+                ],
+                "bitrate": 128,
+                "live": false,
+                "url_m3u": "http://www.wrek.org/playlist.php/main/128kbs/current/LAW.m3u"
+            }
+        ],
+        "genre": "Live, Local",
+        "logo": "http://www.wrek.org/wp-content/themes/wrek/images/ss_icons/LAW.png",
+        "time": "Tue 8/11 10:00 PM",
+        "title": "Live at WREK"
     }
 ]}
