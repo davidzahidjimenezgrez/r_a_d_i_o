@@ -1,0 +1,24 @@
+{"items": [
+    {
+        "streams": [
+            {
+                "playlist": ["http://streaming.wrek.org:8000/wrek_live-24kb-mono"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "http://streaming.wrek.org:8000/wrek_live-24kb-mono.m3u"
+            },
+            {
+                "playlist": ["http://streaming.wrek.org:8000/wrek_live-128kb"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "http://streaming.wrek.org:8000/wrek_live-128kb.m3u"
+            }
+        ],
+        "genre": "What's on the air right now",
+        "logo": "http://www.selbie.com/wrek/radio2.png",
+        "time": "",
+        "title": "Live air stream"
+    },
+]}
